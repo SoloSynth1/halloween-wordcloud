@@ -6,7 +6,7 @@
 This is a word cloud generated from classic sp00ky texts like dracula and frankenstein.
 Stopword list is customized inorder to increase sp00kiness.
 
-Module used: path, wordcloud, numpy, PIL
+Module used: matplotlib, wordcloud, numpy, PIL
 
 Mask and colormap used are produced from the image 'jacko.jpg' found from goolge image search.
 
