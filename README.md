@@ -1,7 +1,7 @@
 # Happy halloween!
 
 ![2sp00ky4me](halloween.png?raw=true "Title")
-# SP00KED!
+# 3SP00KY5ME!
 
 This is a word cloud generated from classic sp00ky texts like dracula and frankenstein.
 Stopword list is customized inorder to increase sp00kiness.
