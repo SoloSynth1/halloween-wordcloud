@@ -1,6 +1,6 @@
 # Happy halloween!
 
-![2sp00ky4me](halloween.png?raw=true "Title")
+![2sp00ky4me](halloween.png?raw=true "2sp00ky4me")
 # 3SP00KY5ME!
 
 This is a word cloud generated from classic sp00ky texts like dracula and frankenstein.
